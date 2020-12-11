@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working with amazing people and I love what I do.
+- 🌱 I'm currently learning how I can produce high-quality mobile apps that impact people in the whole world
 <!--
 **nicolauatala/nicolauatala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolauatala&hide=html&layout=compact&count_private=true&theme=dracula" /></td>
+        <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=nicolauatala&count_private=true&theme=dracula" /></td>
+    </tr>  
+  </table>
+</center>

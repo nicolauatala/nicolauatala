@@ -3,9 +3,9 @@
 </h1>
 
 <p align='center'>
-  🔭 I’m currently working with amazing people and I love what I do.
+  I’m working with amazing people and I love what I do.
   <br/>
-  🌱 I'm currently learning how I can produce high-quality mobile apps that impact people in the whole world
+  Currently learning how I can produce high-quality mobile apps that impact people in the whole world.
 </p>
 <!--
 **nicolauatala/nicolauatala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolauatala&hide=html&layout=compact&count_private=true&theme=dracula" />
-  </p>
-<p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=nicolauatala&show_icons=true&include_all_commits=true&hide=issues&count_private=true&theme=dracula" />
+</p>
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolauatala&hide=html&layout=compact&count_private=true&theme=dracula" />
 </p>

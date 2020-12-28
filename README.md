@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align='center'>
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolauatala&hide=html&layout=compact&count_private=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolauatala&hide=html&layout=compact&count_private=true&theme=dracula" />
   </p>
 <p align='center'>
-  <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=nicolauatala&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolauatala&show_icons=true&include_all_commits=true&hide=issues&count_private=true&theme=dracula" />
 </p>

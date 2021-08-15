@@ -1,12 +1,6 @@
 <h1 align='center'>
   Hi there 👋
 </h1>
-
-<p align='center'>
-  I’m working with amazing people and I love what I do.
-  <br/>
-  Currently learning how I can produce high-quality mobile apps that impact people in the whole world.
-</p>
 <!--
 **nicolauatala/nicolauatala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
